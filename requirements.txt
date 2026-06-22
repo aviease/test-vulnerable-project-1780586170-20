@@ -46,7 +46,7 @@ oauthlib==2.1.0
 python-jose==3.0.0
 passlib==1.7.1
 bcrypt==3.1.4
-argon2-cffi==19.1.0
+argon2-cffi==25.1.0
 bleach==3.1.0
 html5lib==1.0.1
 webencodings==0.5.0
