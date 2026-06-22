@@ -117,7 +117,7 @@
     "jws": "3.2.1",
     "jwa": "1.4.0",
     "stringstream": "0.0.5",
-    "chownr": "1.0.1",
+    "chownr": "3.0.0",
     "fresh": "0.3.0",
     "useragent": "2.1.12",
     "marsdb": "0.6.11",
